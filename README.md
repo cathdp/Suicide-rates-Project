@@ -1,8 +1,7 @@
 <<<<<<< HEAD
 # Guidelines for Project 1
 =======
-Project 1
->>>>>>> 5ceea36652956054eb5feab4b4c66c3abfce829f
+Project Suicides Rates Project
 
 This document contains guidelines, requirements, and suggestions for Project 1.
 
