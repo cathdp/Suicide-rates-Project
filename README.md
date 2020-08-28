@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 # Guidelines for Project 1
+=======
+Project 1
+>>>>>>> 5ceea36652956054eb5feab4b4c66c3abfce829f
 
 This document contains guidelines, requirements, and suggestions for Project 1.
 
+<<<<<<< HEAD
 ## Team Effort
 
 Before anything, remember that Projects are a **group effort**: Working closely with your teammates is a requirement. This both helps teach real-world collaborative workflows, and enables you to tackle more difficult problems than you'd be able to working alone.
@@ -67,9 +72,13 @@ After you've analyzed your data to your satisfaction, you'll put together a pres
 This presentation will be delivered as a slideshow, and should give your classmates and instructional staff an overview of your work. PowerPoint, Keynote, and Google Slides are all acceptable for building slides.
 
 As long as your slides meet the [presentation requirements](PresentationRequirements.md), you are free to structure the presentation however you wish, but students are often successful with the format laid out in the [presentation guidelines](PresentationGuidelines.md).
+=======
+>>>>>>> 5ceea36652956054eb5feab4b4c66c3abfce829f
 
 - - -
 
-### Copyright
 
+<<<<<<< HEAD
 Coding Boot Camp © 2017. All Rights Reserved.
+=======
+>>>>>>> 5ceea36652956054eb5feab4b4c66c3abfce829f
