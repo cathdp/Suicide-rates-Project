@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Guidelines for Project 1
+
 =======
 Project Suicides Rates Project
 
